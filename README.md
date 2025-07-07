@@ -96,4 +96,4 @@
 
 ---
 
-_Thank you for exploring Infinity Explorers! Feel free to connect, contribute, or share your feedback._ 🚀
+_Thank you for exploring Mostafa Hatem! Feel free to connect, contribute, or share your feedback._ 🚀
