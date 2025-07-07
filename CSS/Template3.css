@@ -454,7 +454,8 @@ body {
         position: absolute;
 }
     100% {
-        width: 50%;
+        margin-right: 40%;
+        width: 60%;
         height: 100%;
         background-color: var(--main-color);
         border-radius: 0;
@@ -482,7 +483,7 @@ body {
 }
     100% {
         margin-right: -50%;
-        width: 51%;
+        width: 50%;
         height: 100%;
         background-color: var(--main-color);
         border-radius: 0;
